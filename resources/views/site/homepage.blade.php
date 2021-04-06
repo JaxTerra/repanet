@@ -6,7 +6,7 @@
 
 @section('content')
 
-    <section class="space--xxs bg--gradient">
+    <section class="space--xxs bg--image">
         <div class="container">
             <div class="row text-center mx-md-0 mx-1">
                 <div class="col-md-4 offset-md-2 ">
